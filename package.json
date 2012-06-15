@@ -15,8 +15,8 @@
   },
 
   "dependencies": {
-    "jsdom", ">= 0.2.14",
-    "soupselect", ">= 0.2.0",
+    "jsdom": ">= 0.2.14",
+    "soupselect": ">= 0.2.0",
     "hubot-hipchat": ">= 1.0.5",
     "hubot": "2.2.0",
     "hubot-scripts": "git://github.com/github/hubot-scripts.git#master",
