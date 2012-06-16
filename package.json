@@ -15,6 +15,7 @@
   },
 
   "dependencies": {
+    "underscore": ">= 1.0.0",
     "htmlparser": ">= 1.7.6",
     "jsdom": ">= 0.2.14",
     "soupselect": ">= 0.2.0",
